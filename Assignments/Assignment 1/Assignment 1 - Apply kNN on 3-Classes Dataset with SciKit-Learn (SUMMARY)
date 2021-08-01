@@ -1,0 +1,1 @@
+Upon review of the processed results for when the input value of neighbors K=3 outputs a test set accuracy of '0.57' and the input value of neighbors K=5 outputs a test set accuracy of '0.71', we can conclude that input value of K=5 is the favorable classifier using this dataset.
