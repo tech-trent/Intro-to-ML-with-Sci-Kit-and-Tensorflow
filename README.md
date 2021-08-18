@@ -1,2 +1,2 @@
-# Intro-to-ML-with-SciKit-and-TensorFlow
+# Intro-to-ML-with-Scikit-and-TensorFlow
 QUANTGATES LTD Online Certification Course
